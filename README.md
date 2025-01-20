@@ -1,19 +1,19 @@
-# 🏴‍☠️ Exercise: Recreate a Mondrian Painting with CSS Grid
+# Exercise: Recreate a Mondrian Painting with CSS Grid
 
 This project challenges you to recreate an iconic Mondrian painting using **CSS Grid**. It focuses on mastering grid layouts, positioning, and responsive design.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 Use **CSS Grid** to replicate a complex layout.  
 Explore techniques for centering content within the viewport.  
 Apply best practices for responsive design and flexible layouts.
 
-## 📂 Included Files
+## Included Files
 
 **index.html**: Contains the HTML structure of the painting.  
 **tyle.css**: Contains the CSS styles for the grid layout and positioning.
 
-## 📂 Key Concepts
+## Key Concepts
 
 ### CSS Grid:
 
@@ -26,7 +26,7 @@ Assign grid items to specific areas using **`grid-column`** and **`grid-row`**.
 Center the Mondrian painting using `display: flex` or `grid` on the body element.  
 Set the background color of the body to **`#212121`** for contrast.
 
-## 🔍 Design Preview
+## Design Preview
 
 The final painting should resemble this iconic piece of art:
 
